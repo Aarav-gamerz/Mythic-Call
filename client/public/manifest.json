@@ -1,0 +1,17 @@
+{
+  "name": "MythicCall",
+  "short_name": "MythicCall",
+  "description": "Chat, call, and connect on MythicCall",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/mythiccall-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/mythiccall-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
